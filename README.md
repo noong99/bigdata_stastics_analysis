@@ -1,4 +1,4 @@
-# **Exploring Districts in Seoul for Additional Public Wi-Fi Installation Based on Population Data ** <br/>
+# Exploring Districts in Seoul for Additional Public Wi-Fi Installation Based on Population Data # <br/>
 ## 1. Project Goal
 - Project introduction and goal
   - Goal: Identify districts in Seoul requiring additional public Wi-Fi installation based on the living population data of each district.
